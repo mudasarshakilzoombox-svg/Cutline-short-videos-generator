@@ -1,0 +1,8 @@
+.venv/
+.bin/
+output/
+.env
+cookies.txt
+__pycache__/
+*.pyc
+.claude/settings.local.json
